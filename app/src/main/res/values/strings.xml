@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">myapp</string>
+
+    <string name="empezar">***¡HOLA MUNDO DE ANDROID!***</string>
+    <string name="title1">Menú</string>
+    <string name="title2">Colores</string>
+    <string name="title3">Frutas</string>
+    <string name="title4">Animales</string>
+    <string name="title5">Siguiente</string>
+
+</resources>
